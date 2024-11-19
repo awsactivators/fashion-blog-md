@@ -1,6 +1,7 @@
-<div style="background-color: #11122b; color: #fff; padding: 20px; text-decoration: none;">
+<div style="background-color: #cea135; color: #000; padding: 20px; text-decoration: none;">
 
-# <div style="color: #fff;"> JOLIE PEAU </div>
+
+# JOLIE PEAU 
 
 
 Welcome to Jolie Peau, your guide to the latest in fashion and trends.
@@ -10,7 +11,8 @@ Welcome to Jolie Peau, your guide to the latest in fashion and trends.
 
 </div>
 
-<div style="background-color: #FFF9F0; color: #11122b; padding: 20px;">
+
+<div style="background-color: #FFF9F0; color: #000; padding: 20px;">
 
 ---
 
@@ -74,9 +76,9 @@ As we embrace sustainability, the fashion industry is adapting by focusing on ec
 
 </div>
 
-<div style="background-color: #11122b; color: #fff; padding: 20px;">
+<div style="background-color: #cea135; color: #000; padding: 20px;">
 
-## <div style="color: #fff;"> Subscribe to Our Newsletter </div>
+## Subscribe to Our Newsletter 
 
 Enter your email to stay updated with the latest fashion trends.
 
