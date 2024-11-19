@@ -1,11 +1,5 @@
 <div style="background-color: #11122b; color: #fff; padding: 20px; text-decoration: none;">
 
-<!-- <div style="width: 60px;"> 
-
-![JP](./images/jpicon.png)
-
-</div>  -->
-
 # <div style="color: #fff;"> JOLIE PEAU </div>
 
 Welcome to Jolie Peau, your guide to the latest in fashion and trends.
