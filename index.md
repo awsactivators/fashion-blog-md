@@ -1,6 +1,6 @@
 <div style="background-color: #f7d18b; color: #11122b; padding: 20px;">
 
-# Jolie Peau ![JP](./images/jpicon.png)
+# <div style="width: 30px;">![JP](./images/jpicon.png)</div> Jolie Peau
 
 Welcome to Jolie Peau, your guide to the latest in fashion and trends.
 
@@ -16,15 +16,17 @@ Welcome to Jolie Peau, your guide to the latest in fashion and trends.
 
 Fashion is an ever-evolving art form that reflects culture, society, and individual expression. The pandemic changed the course of fashion for many, with increased time at home creating more demand for sweatpants and comfy clothing. Now, in 2024, we're seeing a resurgence of bold colors and patterns that push the boundaries of traditional aesthetics.
 
-<div style="width: 300px;">
+<div style="width: 200px;">
  ![Fashion Trends](./images/fashion-trends.jpg)
 </div>
 
+
 From oversized silhouettes to minimalist designs, the variety of styles allows everyone to find their unique look. Accessories play a crucial role, with statement pieces becoming essential for elevating any outfit.
 
-<div style="width: 300px;">
+<div style="width: 200px;">
   ![Fashion Accessories](./images/fashion-trends2.jpg)
 </div>
+
 
 As we embrace sustainability, the fashion industry is adapting by focusing on eco-friendly materials and practices. This shift not only benefits the environment but also creates new opportunities for innovative designs.
 
@@ -40,11 +42,13 @@ As we embrace sustainability, the fashion industry is adapting by focusing on ec
    ![Fashion Model 1](./images/slide1.jpeg)
   </div>
 
+
 2. **Fashion Model 2**  
 
   <div style="width: 300px;">
    ![Fashion Model 2](./images/slide2.jpeg)
   </div>
+  
 
 3. **Fashion Model 3**  
 
