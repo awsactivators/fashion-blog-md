@@ -2,7 +2,9 @@
 
 # <div style="color: #fff;"> JOLIE PEAU </div>
 
+
 Welcome to Jolie Peau, your guide to the latest in fashion and trends.
+
 
 [Home](#) | [About](#) | [Blog](#) | [Contact](#)
 
